@@ -1,19 +1,28 @@
 
-### I try to write codes 💻 and solve problems .
+### Cloud Engineer 💻 .
 
 
-### Skills: Python, PHP(Laravel),GCP .
+### Skills: Python (automating scripts),PHP(Laravel)
 
-- 🔭 I’m currently working on python projects
-- 🌱 I’m currently learning cloud computing
+### Tools:
+* Terraform
+* AWS
+* GCP
+* Jenkins
+* Docker
+
+- 🔭 Currently undertaking a Nanodegree program in Cloud Devops.
+- 🌱 Studying to be an expert in automation.
 - 👯 I’m looking to collaborate on open source projects.
 
 
 
 -->
+### SOCIAL
 
-![Twitter Follow](https://img.shields.io/twitter/follow/elcyma1?style=social)
-![GitHub followers](https://img.shields.io/github/followers/elsie-dev?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/elcyma1?style=social
+
+
 
 <h3 align="center">HIT THE SNOOZE BUTTON KEEP THE DREAM ALIVE!!!</h3>
 <!-- For making transition -->
