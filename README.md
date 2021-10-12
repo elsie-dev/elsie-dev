@@ -11,7 +11,6 @@
 * Jenkins
 * Docker
 
-- 🔭 Currently undertaking a Nanodegree program in Cloud Devops.
 - 🌱 Studying to be an expert in automation.
 - 👯 I’m looking to collaborate on open source projects.
 
