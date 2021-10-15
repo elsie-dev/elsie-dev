@@ -11,9 +11,6 @@
 * Jenkins
 * Docker
 
-- 🌱 Studying to be an expert in automation.
-- 👯 I’m looking to collaborate on open source projects.
-
 
 
 -->
