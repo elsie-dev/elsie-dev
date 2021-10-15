@@ -17,17 +17,18 @@
 
 
 -->
+
+    
 ## Reach me
 
-
 <p align="center">
-  
-    <a href="https://www.linkedin.com/in/elsie-marion" alt="LinkedIn">
+    <a href="https://linkedin.com/in/elsie-marion" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-       
-    <a href="https://twitter.com/elcyma1?s=09" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Twitter-242424?style=flat-square&logo=circle&logoColor=White" /></a>
+  
+     
 </p>
+
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsie-dev&show_icons=true&theme=radical)
