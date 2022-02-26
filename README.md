@@ -2,7 +2,7 @@
 ### Cloud Engineer 💻 .
 
 
-### Skills: Python (automating scripts),PHP(Laravel)
+### Skills: Python (proficient level)
 
 ### Tools:
 * Terraform
