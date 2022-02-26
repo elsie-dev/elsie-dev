@@ -10,6 +10,7 @@
 * GCP
 * Jenkins
 * Docker
+* Kubernetes
 
 
 
