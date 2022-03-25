@@ -1,6 +1,8 @@
 
 ### Cloud Engineer 💻 .
 
+Just published my first article,Check it out: [devops_concept](https://medium.com/@elcymarista/what-is-devops-the-bakery-analogy-fe321196d4b)
+
 
 ### Skills: Python (proficient level)
 
