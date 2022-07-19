@@ -8,7 +8,6 @@ Checkout my link tree:
 ### Tools:
 * Terraform
 * AWS
-* GCP
 * Jenkins
 * Docker
 * Kubernetes
