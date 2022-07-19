@@ -2,7 +2,7 @@
 ### Cloud Engineer 💻 .
 
 Checkout my link tree: 
-    <a href="Linktr.ee/elcymao" alt="Link">[]
+    <a href="Linktr.ee/elcymao" alt="Link">[https://linktr.ee/elcymao]
 ### Skills: Python (proficient level)
 
 ### Tools:
