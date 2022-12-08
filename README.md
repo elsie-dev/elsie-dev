@@ -1,20 +1,15 @@
 
-### Cloud Engineer 💻 .
+### DEVOPS ENGINEER 💻 .
 
 Checkout my link tree: 
     <a href="Linktr.ee/elcymao" alt="Link">[https://linktr.ee/elcymao]
 ### Skills: Python (proficient level)
 
 ### Tools:
-* Terraform
-* AWS
-* Jenkins
-* Docker
-* Kubernetes
-
-
-
--->
+* Infrastructure as Code - AWS Cloud Formatiom,Terafform
+* AWS, Microsoft Azure Cloud Platform
+* Containerzation - Docker, Kubernetes
+* Monitoring (APM ) -Kibana, Prometehus
 
     
 ## Reach me
