@@ -3,14 +3,16 @@
 
 Checkout my link tree: 
     <a href="Linktr.ee/elcymao" alt="Link">[https://linktr.ee/elcymao]
-### Skills: Python (proficient level)
 
-### Tools:
+   
+### Skills:
 * Infrastructure as Code - AWS Cloud Formatiom,Terafform
 * AWS, Microsoft Azure Cloud Platform
 * Containerzation - Docker, Kubernetes
 * Monitoring (APM ) -Kibana, Prometehus
-
+* Python
+    
+ From the Starred project on my repo are the list l have contributed to.  
     
 ## Reach me
 
