@@ -1,5 +1,5 @@
 
-### DEVOPS ENGINEER 💻 .
+### CLOUD ENGINEER 💻 .
 
 Checkout my link tree: 
     <a href="Linktr.ee/elcymao" alt="Link">[https://linktr.ee/elcymao]
@@ -14,7 +14,7 @@ Checkout my link tree:
     
  From the Starred project on my repo are the list l have contributed to.  
     
-## Reach me
+## Contact Me
 
 <p align="center">
     <a href="https://linkedin.com/in/elsie-marion" alt="LinkedIn">
