@@ -1,28 +1,27 @@
 
 ### CLOUD ENGINEER 💻 .
 
-Checkout my link tree: 
-    <a href="Linktr.ee/elcymao" alt="Link">[https://linktr.ee/elcymao]
+[Elsie's Link Tree](https://linktr.ee/elcymao)
 
    
 ### Skills:
+* AWS, Azure Cloud Platform
 * Infrastructure as Code - AWS Cloud Formatiom,Terafform
-* AWS, Microsoft Azure Cloud Platform
 * Containerzation - Docker, Kubernetes
 * Monitoring (APM ) -Kibana, Prometehus
 * Python
     
  From the Starred project on my repo are the list l have contributed to.  
     
-## Contact Me
+### Contact:
 
-<p align="center">
+<p align="left">
     <a href="https://linkedin.com/in/elsie-marion" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  
-     
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>    
 </p>
 
+
+  <p>Email Address:</p>
 
 
 
