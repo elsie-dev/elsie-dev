@@ -6,12 +6,11 @@
    
 ### Skills:
 * AWS, Azure Cloud Platform
+* Python
 * Infrastructure as Code - AWS Cloud Formatiom,Terafform
 * Containerzation - Docker, Kubernetes
-* Monitoring (APM ) -Kibana, Prometehus
-* Python
+* Monitoring (APM ) -Kibana, Prometheus
     
- From the Starred project on my repo are the list l have contributed to.  
     
 ### Contact:
 
@@ -19,9 +18,6 @@
     <a href="https://linkedin.com/in/elsie-marion" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>    
 </p>
-
-
-  <p>Email Address:</p>
 
 
 
