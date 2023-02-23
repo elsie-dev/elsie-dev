@@ -8,7 +8,7 @@
 * AWS, Azure Cloud Platform
 * Python
 * Infrastructure as Code - AWS Cloud Formatiom,Terafform
-* Containerzation - Docker, Kubernetes
+* Containerization - Docker, Kubernetes
 * Monitoring (APM ) -Kibana, Prometheus
     
     
