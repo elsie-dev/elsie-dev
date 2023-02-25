@@ -1,6 +1,6 @@
 
 ### CLOUD ENGINEER 💻 .
-Hello, I'm Elsie passionate about cloud computing technology. I am also familiar with Python Automation scripts, and writes technical articles. 
+Hello, I'm Elsie passionate about cloud computing. 
 As a beneficiary of tech communities, l love giving back through mentorship volunteering and publishing articles on behalf of the communities.
 
 [Elsie's Link Tree](https://linktr.ee/elcymao)
