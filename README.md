@@ -1,29 +1,22 @@
 
-### CLOUD ENGINEER 💻 .
-Hello, I'm Elsie passionate about cloud computing. 
-As a beneficiary of tech communities, l love giving back through mentorship volunteering and publishing articles on behalf of the communities.
+# Bonjour!! 👋🏾
+
+I'm Elsie Marion a Cloud Engineer 💻 . I love cloud computing, currently focused on DevOps Technologies. I give back to tech communities through Open Source Contributions (Technical writing and Software Engineering).
 
 [Elsie's Link Tree](https://linktr.ee/elcymao)
 
    
 ### Skills:
-* AWS, Azure Cloud Platform
-* Python
-* Infrastructure as Code - AWS Cloud Formatiom,Terafform
-* Containerization - Docker, Kubernetes
-* Monitoring (APM ) -Kibana, Prometheus
-    
-    
-### Contact:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsie-dev&show_icons=true&theme=radical)
+
+
+### Reach me on :
 
 <p align="left">
     <a href="https://linkedin.com/in/elsie-marion" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>    
 </p>
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsie-dev&show_icons=true&theme=radical)
 
 <h3 align="center">HIT THE SNOOZE BUTTON KEEP THE DREAM ALIVE!!!</h3>
 <!-- For making transition -->
