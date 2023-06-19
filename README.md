@@ -4,12 +4,10 @@
 I'm Elsie Marion a Cloud Engineer 💻 . I love cloud computing, currently focused on DevOps Technologies. I give back to tech communities through Open Source Contributions (Technical writing and Software Engineering).
 
 [Elsie's Link Tree](https://linktr.ee/elcymao)
-
-   
-### Skills:
+  
+### Competency:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsie-dev&show_icons=true&theme=radical)
-
 
 ### Reach me on :
 
@@ -17,6 +15,9 @@ I'm Elsie Marion a Cloud Engineer 💻 . I love cloud computing, currently focus
     <a href="https://linkedin.com/in/elsie-marion" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>    
 </p>
+
+I also love memes. 
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <h3 align="center">HIT THE SNOOZE BUTTON KEEP THE DREAM ALIVE!!!</h3>
 <!-- For making transition -->
