@@ -1,7 +1,7 @@
 
 # Bonjour!! 👋🏾
 
-I'm Elsie Marion a Cloud Engineer 💻 . I love cloud computing, currently focused on DevOps Technologies. I give back to tech communities through Open Source Contributions (Technical writing and Software Engineering).
+I'm Elsie Marion a Cloud Engineer 💻 . Proficient in Devops and Cloud Support. I give back to tech communities through Open Source Contributions (Technical writing and Software Engineering Contributions).
 
 [Elsie's Link Tree](https://linktr.ee/elcymao)
   
