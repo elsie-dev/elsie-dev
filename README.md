@@ -19,7 +19,7 @@ I'm Elsie a Cloud Engineer 💻 . Proficient in DevOps and Cloud Support. I cont
 I also love memes. 
 <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-<h3 align="center">HIT THE SNOOZE BUTTON KEEP THE DREAM ALIVE!!!</h3>
+<h3 align="center">HIT THE SNOOZE BUTTON, KEEP THE DREAM ALIVE!!!</h3>
 <!-- For making transition -->
 <p align="center">
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px">
