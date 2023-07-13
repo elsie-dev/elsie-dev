@@ -5,7 +5,7 @@ I'm Elsie a Cloud Engineer 💻 . Proficient in DevOps and Cloud Support. I cont
 
 [Elsie's Link Tree](https://linktr.ee/elcymao)
   
-### Competency:
+### Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsie-dev&show_icons=true&theme=radical)
 
