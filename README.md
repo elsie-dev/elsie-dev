@@ -1,7 +1,9 @@
 
 # Bonjour!! 👋🏾
 
-I'm Elsie a Cloud Engineer 💻 . Proficient in DevOps and Cloud Support. I contribute to tech communities by writing technical articles. I also love skating and hanging around kids.
+I'm Elsie a Cloud Engineer 💻 . Proficient in both DevOps and Cloud Support.
+Uses python for automation
+I contribute to tech communities by writing technical articles. I also love skating and hanging around kids.
 
 [Elsie's Link Tree](https://linktr.ee/elcymao)
   
