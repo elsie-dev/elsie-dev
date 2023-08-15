@@ -8,8 +8,6 @@ Invite me out for a skate race.
 
 [Elsie's Link Tree](https://linktr.ee/elcymao)
 
-### Tech Stacks:
-
   
 ### Stats:
 
