@@ -1,27 +1,68 @@
+# Bonjour!! 👋🏾 I'm Elsie
 
-# Bonjour!! 👋🏾
+<a href="https://github.com/elsie-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=600&lines=DevSecOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;I+break+things+on+purpose+(chaos+engineering)+%F0%9F%92%A5;Shifting+security+left%2C+one+pipeline+at+a+time+%F0%9F%94%90;Teaching+AI+agents+to+debug+servers+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
-I'm Elsie, currently into Cloud Engineering 💻 . Proficient in both DevSecOps.
-Apart from automation and I also contribute to communities through writing technical articles and giving talks on Cloud concepts.
+I build **secure, automated cloud platforms**: Kubernetes, GitOps and pipelines that catch problems long before production does.
+When I'm not automating things, I write technical articles and give talks on cloud and security. 🎤
 
-[Elsie's Link Tree](https://linktr.ee/elcymao)
+```yaml
+elsie:
+  role: DevSecOps & Cloud Engineer
+  based_in: Nairobi, Kenya 🇰🇪
+  platforms: [AWS, OpenShift, Kubernetes]
+  gitops: [Flux, Helm]
+  security: [DAST, shift-left, pipeline security]
+  reliability: [chaos engineering, observability]
+  currently_exploring: AI agents + MCP for ops
+  fuel: ☕ + memes
+```
 
-  
-### Stats:
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsie-dev&show_icons=true&theme=radical)
+### 🏆 Things I've shipped
 
-### Reach me on :
+- ** Multi-tenant core banking on Kubernetes:** Deployed **Apache Fineract / Mifos** on **OpenShift** with **Helm** and **Flux GitOps**, and onboarded **3 tenants now running in production**.
+- ** Chaos engineering:** Set up chaos tests that simulate **network latency** and **pod failures**, so we find out how systems behave under stress *before* customers do.
+- ** Shift-left security:** Added **DAST scanning** to CI/CD pipelines, so security checks run on every change instead of at release time.
+- ** Shared pipeline libraries:** Refactored pipelines into a **reusable shared library** with automation scripts, which cut duplication and made onboarding new services faster.
+- ** AI agents for ops:** Used **AI agents with MCP** to securely access servers and investigate issues, speeding up troubleshooting.
 
+### 🎤 Speaking & writing
+
+- **"Shift Left"**, talk at **Nairobi DevOps** community
+- Technical articles on cloud and DevSecOps: see my [Link Tree](https://linktr.ee/elcymao)
+
+---
+
+### 📊 Stats
+
+<!-- Generated daily by .github/workflows/profile-cards.yml -->
 <p align="left">
-    <a href="https://linkedin.com/in/elsie-marion" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>    
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
+</p>
+<p align="left">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
 </p>
 
-I also love memes. 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+### 📫 Reach me
 
-<h3 align="center">HIT THE SNOOZE BUTTON, KEEP THE DREAM ALIVE!!!</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/elsie-marion"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linktr.ee/elcymao"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" /></a>
+</p>
+
+---
+
+### 😂 Meme of the day
+
+<img src="https://programmer-humor-api.vercel.app/api/image" alt="Refresh the page if the meme doesn't show up 🙃" width="400" />
+
+<sub>*Because uptime is serious, but life doesn't have to be.*</sub>
+
+<!-- <h3 align="center">HIT THE SNOOZE BUTTON, KEEP THE DREAM ALIVE!!!</h3>
 <!-- For making transition -->
 <p align="center">
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px">
@@ -54,4 +95,4 @@ I also love memes.
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-</p>
+</p> -->
