@@ -36,22 +36,10 @@ elsie:
 
 ---
 
-### 📊 Stats
-
-<!-- Generated daily by .github/workflows/profile-cards.yml -->
-<p align="left">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
-</p>
-<p align="left">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
-</p>
-
 ### 📫 Reach me
 
 <p align="left">
   <a href="https://linkedin.com/in/elsie-marion"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://linktr.ee/elcymao"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" /></a>
 </p>
 
 ---
