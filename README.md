@@ -4,7 +4,6 @@
 I'm Elsie, currently into Cloud Engineering 💻 . Proficient in both DevSecOps.
 Apart from automation and I also contribute to communities through writing technical articles and giving talks on Cloud concepts.
 
-
 [Elsie's Link Tree](https://linktr.ee/elcymao)
 
   
